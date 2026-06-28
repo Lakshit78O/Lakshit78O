@@ -1,10 +1,15 @@
 # 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🚀+Python+Developer;🤖+ML+%26+AI+Enthusiast;📊+Data+Science+Explorer;💡+Innovation+Seeker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=700&lines=🚀+Python+Developer;🤖+ML+%26+AI+Enthusiast;📊+Data+Science+Explorer;💡+Innovation+Seeker;🔬+AI+Researcher;✨+Tech+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- Animated Welcome Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Universe+🌌;Exploring+AI+%26+ML+Frontiers+🚀;Building+Intelligent+Solutions+💻" alt="Welcome Banner" />
 </div>
 
 ---
@@ -13,6 +18,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lakshit78O&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Passionate+about+Python+and+AI;Building+ML+Models+that+Matter;Transforming+Data+into+Insights;Creating+the+Future+with+Code" alt="Bio" />
 </div>
 
 I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to building intelligent solutions that matter. With expertise in **machine learning**, **data science**, and **artificial intelligence**, I'm constantly pushing the boundaries of what's possible with code.
@@ -46,206 +55,294 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 ### 📊 Data & Analytics
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1a1a)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a1a)
 
 ### 🔧 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 🎓 Expertise & Skills
+## 🎓 Expertise & Skills - Interactive Display
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="25%">
-      <div>
-        <h3>🐍 Python</h3>
-        <p>Advanced | Proficient</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=150&lines=🐍+PYTHON;Advanced" alt="Python" />
+      <p><strong>Expert Level</strong></p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <h3>🤖 Machine Learning</h3>
-        <p>Model Development</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=150&lines=🤖+ML;Proficient" alt="ML" />
+      <p><strong>Model Dev</strong></p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <h3>📊 Data Science</h3>
-        <p>Analysis & Insight</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=150&lines=📊+DATA;Analysis" alt="Data" />
+      <p><strong>Insights</strong></p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <h3>🧠 AI</h3>
-        <p>Deep Learning</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=150&lines=🧠+AI;Deep+Learning" alt="AI" />
+      <p><strong>Neural Nets</strong></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <div>
-        <h3>📈 NumPy</h3>
-        <p>Array Computing</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=150&lines=📈+NumPy;Computing" alt="NumPy" />
+      <p><strong>Arrays</strong></p>
     </td>
     <td align="center">
-      <div>
-        <h3>🗂️ Pandas</h3>
-        <p>Data Manipulation</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=150&lines=🗂️+Pandas;Manipulation" alt="Pandas" />
+      <p><strong>Data Frames</strong></p>
     </td>
     <td align="center">
-      <div>
-        <h3>💾 GitHub</h3>
-        <p>Version Control</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=150&lines=💾+GitHub;Version+Control" alt="GitHub" />
+      <p><strong>Collab</strong></p>
     </td>
     <td align="center">
-      <div>
-        <h3>🔬 NLP</h3>
-        <p>Language Models</p>
-      </div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=150&lines=🔬+NLP;Language" alt="NLP" />
+      <p><strong>Models</strong></p>
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 🌟 Key Competencies
+## 🌟 Key Competencies - Animated
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ✨ Python Programming         💯 Problem Solving          │
-│  🤖 Machine Learning           📊 Data Analysis            │
-│  📈 NumPy & Pandas             🧠 Deep Learning            │
-│  🎯 Scikit-learn               🔬 NLP & LLMs               │
-│  🎨 Data Visualization         💻 Software Development     │
-│  🚀 AI Applications            📚 Continuous Learning      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║          🚀 CORE COMPETENCIES & EXPERTISE 🚀              ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                           ║
+║  ✨ Python Programming         💯 Problem Solving        ║
+║  🤖 Machine Learning           📊 Data Analysis          ║
+║  📈 NumPy & Pandas             🧠 Deep Learning          ║
+║  🎯 Scikit-learn               🔬 NLP & LLMs             ║
+║  🎨 Data Visualization         💻 Software Development   ║
+║  🚀 AI Applications            📚 Continuous Learning    ║
+║  🔐 Data Security              ⚡ Performance Optimization║
+║  🌐 Web Scraping               📱 API Development        ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 📈 Current Focus Areas
+## 📈 Animated Progress Bars - Skill Levels
 
 <div align="center">
 
-| 🎯 Goal | 📝 Description |
-|---------|----------------|
-| 🔭 **Advanced Deep Learning** | Exploring transformer architectures & modern neural networks |
-| 🌱 **NLP Mastery** | Building sophisticated language models & understanding |
-| 👯 **Open Source** | Contributing to impactful machine learning projects |
-| 💡 **AI Innovation** | Creating novel solutions using cutting-edge AI techniques |
-| 📊 **Data Engineering** | Scaling data pipelines for production ML systems |
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=400&lines=🐍+Python+Mastery;████████████████████░░░░░░░░░░░░░░░░+85%25" alt="Python Progress" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FF1493&center=true&vCenter=true&width=400&lines=🤖+Machine+Learning;███████████████░░░░░░░░░░░░░░░░░░░░░░+75%25" alt="ML Progress" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=📊+Data+Science;█████████████░░░░░░░░░░░░░░░░░░░░░░░░+65%25" alt="DS Progress" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=400&lines=🧠+Deep+Learning;████████████░░░░░░░░░░░░░░░░░░░░░░░░░+60%25" alt="DL Progress" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=400&lines=🔬+NLP+%26+LLMs;███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░+55%25" alt="NLP Progress" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Focus Areas - Animated Cards
 
 <div align="center">
 
-> *🔄 Explore my repositories to see amazing ML & AI projects in action!*
-
-**[Visit My Repositories](https://github.com/Lakshit78O?tab=repositories)** →
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=🔭+Advanced+Deep+Learning;🌱+NLP+%26+Language+Models;👯+Open+Source+Collaboration;💡+AI+Innovation+Projects;📊+Data+Engineering" alt="Focus Areas" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🌈 Interactive Skill Matrix
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────────────────╮
+│                  SKILL MATRIX 2024                      │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Backend Development      ████████░░░░░░░  80%         │
+│  ML/AI Engineering        ███████░░░░░░░░░  75%         │
+│  Data Analysis           ██████░░░░░░░░░░░  70%         │
+│  Cloud & DevOps          █████░░░░░░░░░░░░  55%         │
+│  API Development         ███████░░░░░░░░░░  75%         │
+│  Web Scraping            ██████░░░░░░░░░░░  65%         │
+│  Database Design         ██████░░░░░░░░░░░  70%         │
+│  Problem Solving         ████████░░░░░░░░░  85%         │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## 📊 Live GitHub Statistics & Analytics
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshit78O&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=ff6b6b" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lakshit78O&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=fff&icon_color=ff6b6b&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshit78O&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=fff" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit78O&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshit78O&theme=radical&hide_border=true&background=0d1117&stroke=fff&ring=ff6b6b&fire=ff6b6b" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshit78O&theme=radical&hide_border=true&bg_color=0d1117&line=ff6b6b&point=fff" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎨 Interactive Skills Visualization
+## 🎨 Featured Tech Stack - Animated Display
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=400&lines=Featured+Tech+Stack;✨+Modern+%26+Scalable" alt="Stack Header" />
+
 ```
-Machine Learning & AI Journey
-████████████████░░░░░░░░░░░░░░░░░░░░  75% 🤖
+🏗️ ARCHITECTURE & FRAMEWORKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├─ 🔷 TensorFlow 2.x
+  ├─ 🔶 PyTorch Lightning
+  ├─ 🔹 Keras & tf.keras
+  ├─ 🟠 FastAPI
+  ├─ 🟢 Django
+  └─ 🟣 Flask
 
-Python Mastery
-████████████████████░░░░░░░░░░░░░░░░  85% 🐍
+📊 DATA STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├─ 📈 Pandas
+  ├─ 🔢 NumPy
+  ├─ 📉 Matplotlib
+  ├─ 🎨 Plotly
+  ├─ 🧪 SciPy
+  └─ 📊 Seaborn
 
-Data Science
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░  65% 📊
-
-Deep Learning
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░  60% 🧠
-
-NLP & LLMs
-██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  50% 📚
+🚀 TOOLS & PLATFORMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├─ 🐳 Docker
+  ├─ ☸️  Kubernetes
+  ├─ 🔄 Git
+  ├─ ☁️  AWS/GCP
+  ├─ 📦 Conda/Pip
+  └─ 🧬 Jupyter
 ```
 
 </div>
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Dynamic Project Showcase
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=🌟+Featured+Projects;ML+Models+%26+AI+Solutions;Data+Science+Pipelines;Open+Source+Contributions" alt="Projects" />
+
+**[📂 Explore My Repositories](https://github.com/Lakshit78O?tab=repositories)** →
+
+</div>
+
+---
+
+## 💼 Professional Summary
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║  🎯 MISSION: Build AI solutions that transform       ║
+║     industries and create positive impact            ║
+║                                                        ║
+║  💡 VISION: Democratizing AI through clean code      ║
+║     and innovative approaches                         ║
+║                                                        ║
+║  🚀 PASSION: Continuous learning and growth in       ║
+║     machine learning and artificial intelligence      ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=400&lines=Let's+Connect!;Collaborate+on+Projects;Exchange+Ideas" alt="Connect" />
 
 ### 💌 Get in Touch
 
-**Email:** [lakshit.dev@gmail.com](mailto:lakshit.dev@gmail.com)
+**📧 Email:** [lakshit.dev@gmail.com](mailto:lakshit.dev@gmail.com)
 
-**🔗 Social & Professional Links:**
+### 🔗 Social & Professional Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Lakshit78O)](https://github.com/Lakshit78O)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lakshit.dev@gmail.com)](mailto:lakshit.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
+## 🎯 Seeking Opportunities
 
 <div align="center">
 
-- 🤝 **Collaborations** on ML/AI projects
-- 💬 **Discussions** about emerging AI technologies  
-- 📚 **Learning** from the community
-- 🌍 **Contributing** to open-source initiatives
-- 💼 **Networking** with fellow enthusiasts
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=🤝+Open+for+Collaborations;💬+Discuss+AI+%26+ML+Topics;📚+Knowledge+Exchange;🌍+Open+Source+Projects;💼+Freelance+Opportunities" alt="Opportunities" />
 
 </div>
 
 ---
 
-## 🌈 Fun Facts & Interests
+## 🌟 Fun Facts & Philosophy
 
 <div align="center">
 
-> 💻 *I believe in the power of clean code and creative problem-solving*
-> 
-> 🎓 *Continuous learning is my superpower*
-> 
-> 🚀 *Making AI accessible to everyone*
-> 
-> ⚡ *Coffee-driven Python developer ☕*
+```
+╭─────────────────────────────────────────────╮
+│  💭 PHILOSOPHY & MINDSET                   │
+├─────────────────────────────────────────────┤
+│                                             │
+│  💻 Clean code is a form of art           │
+│  🧠 AI should be accessible to everyone   │
+│  ☕ Coffee + Code = Productivity          │
+│  🚀 Failing fast, learning faster         │
+│  🌱 Growth mindset in everything          │
+│  🎯 Focus on impact, not just metrics     │
+│  📚 Lifelong learner & knowledge seeker   │
+│  🤝 Community over competition            │
+│                                             │
+╰─────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+## ⚡ Quick Facts
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=15&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=500&lines=📍+Python+Developer;🎓+Self-Taught+%26+Passionate;🌍+Global+Mindset;⚡+Fast+Learner;🎯+Goal-Oriented" alt="Quick Facts" />
 
 </div>
 
@@ -255,20 +352,29 @@ NLP & LLMs
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-red?style=for-the-badge" alt="Made with love and coffee" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!+⭐;Let's+Build+Amazing+Things+Together!+🚀;Happy+Coding!+💻;Innovation+Awaits!+✨" alt="Footer Animation" />
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20Coffee%20%26%20Code-red?style=for-the-badge" alt="Made with love and coffee" />
 </div>
 
 <div align="center">
   
-### ⭐ *If you find my profile interesting, don't forget to give it a star!*
-
-**Thanks for visiting! Let's build amazing things together! 🚀**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=Happy+Coding!;Let's+Innovate+Together!;AI+%26+ML+Awaits!" alt="Closing Message" />
+### 🌟 *Support my work - give this profile a ⭐!*
 
 </div>
 
 ---
 
-*Last updated: 2026* | **[View Live Profile](https://github.com/Lakshit78O)**
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=12&duration=4000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=Last+Updated:+2026;Profile+Actively+Maintained;Always+Learning+%26+Growing+🚀" alt="Updated" />
+
+</div>
+
+**[👉 View My GitHub Profile 👈](https://github.com/Lakshit78O)**
