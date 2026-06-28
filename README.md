@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-I'm a <b>passionate Python developer</b> and <b>AI/ML enthusiast</b> dedicated to building intelligent solutions that matter. With expertise in <b>machine learning</b>, <b>data science</b>, and <b>artificial intelligence</b>, I'm constantly pushing the boundaries of what's possible with code.
+I'm a <b>passionate Python developer</b> and <b>AI/ML enthusiast</b> dedicated to building intelligent solutions that matter. With expertise in <b>machine learning</b>, <b>data science</b>, and <b>artificial intelligence</b>, I'm constantly pushing the boundaries of what's possible with code. <b>Mainly I also focusing to make beginner project of Python so that I can clear my basics</b>
 </p>
 
 > **"Code is poetry, and AI is the canvas."** 🎨
