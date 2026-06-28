@@ -24,7 +24,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Passionate+about+Python+and+AI;Building+ML+Models+that+Matter;Transforming+Data+into+Insights;Creating+the+Future+with+Code" alt="Bio" />
 </div>
 
-I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to building intelligent solutions that matter. With expertise in **machine learning**, **data science**, and **artificial intelligence**, I'm constantly pushing the boundaries of what's possible with code.
+<p align="center">
+I'm a <b>passionate Python developer</b> and <b>AI/ML enthusiast</b> dedicated to building intelligent solutions that matter. With expertise in <b>machine learning</b>, <b>data science</b>, and <b>artificial intelligence</b>, I'm constantly pushing the boundaries of what's possible with code.
+</p>
 
 > **"Code is poetry, and AI is the canvas."** 🎨
 
@@ -67,45 +69,61 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 
 ---
 
-## 🎓 Expertise & Skills - Interactive Display
+## 🎓 Expertise & Skills
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=150&lines=🐍+PYTHON;Advanced" alt="Python" />
-      <p><strong>Expert Level</strong></p>
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=🐍+PYTHON" alt="Python" />
+        <p style="color: white; font-weight: bold;">Expert Level</p>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=150&lines=🤖+ML;Proficient" alt="ML" />
-      <p><strong>Model Dev</strong></p>
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=🤖+ML" alt="ML" />
+        <p style="color: white; font-weight: bold;">Model Dev</p>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=150&lines=📊+DATA;Analysis" alt="Data" />
-      <p><strong>Insights</strong></p>
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=📊+DATA" alt="Data" />
+        <p style="color: white; font-weight: bold;">Analysis</p>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=150&lines=🧠+AI;Deep+Learning" alt="AI" />
-      <p><strong>Neural Nets</strong></p>
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=🧠+AI" alt="AI" />
+        <p style="color: white; font-weight: bold;">Deep Learn</p>
+      </div>
     </td>
   </tr>
-  <tr>
+  <tr style="margin-top: 20px;">
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=150&lines=📈+NumPy;Computing" alt="NumPy" />
-      <p><strong>Arrays</strong></p>
+      <div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=📈+NumPy" alt="NumPy" />
+        <p style="color: white; font-weight: bold;">Arrays</p>
+      </div>
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=150&lines=🗂️+Pandas;Manipulation" alt="Pandas" />
-      <p><strong>Data Frames</strong></p>
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=🗂️+Pandas" alt="Pandas" />
+        <p style="color: white; font-weight: bold;">DataFrames</p>
+      </div>
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=150&lines=💾+GitHub;Version+Control" alt="GitHub" />
-      <p><strong>Collab</strong></p>
+      <div style="background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=💾+GitHub" alt="GitHub" />
+        <p style="color: white; font-weight: bold;">Version Ctrl</p>
+      </div>
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=150&lines=🔬+NLP;Language" alt="NLP" />
-      <p><strong>Models</strong></p>
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=150&lines=🔬+NLP" alt="NLP" />
+        <p style="color: white; font-weight: bold;">Language AI</p>
+      </div>
     </td>
   </tr>
 </table>
@@ -114,32 +132,7 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 
 ---
 
-## 🌟 Key Competencies - Animated
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║          🚀 CORE COMPETENCIES & EXPERTISE 🚀              ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  ✨ Python Programming         💯 Problem Solving        ║
-║  🤖 Machine Learning           📊 Data Analysis          ║
-║  📈 NumPy & Pandas             🧠 Deep Learning          ║
-║  🎯 Scikit-learn               🔬 NLP & LLMs             ║
-║  🎨 Data Visualization         💻 Software Development   ║
-║  🚀 AI Applications            📚 Continuous Learning    ║
-║  🔐 Data Security              ⚡ Performance Optimization║
-║  🌐 Web Scraping               📱 API Development        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📈 Animated Progress Bars - Skill Levels
+## 📈 Animated Skill Progress
 
 <div align="center">
 
@@ -157,36 +150,11 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 
 ---
 
-## 🎯 Current Focus Areas - Animated Cards
+## 🎯 Current Focus Areas
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=550&lines=🔭+Advanced+Deep+Learning;🌱+NLP+%26+Language+Models;👯+Open+Source+Collaboration;💡+AI+Innovation+Projects;📊+Data+Engineering" alt="Focus Areas" />
-
-</div>
-
----
-
-## 🌈 Interactive Skill Matrix
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────╮
-│                  SKILL MATRIX 2024                      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Backend Development      ████████░░░░░░░  80%         │
-│  ML/AI Engineering        ███████░░░░░░░░░  75%         │
-│  Data Analysis           ██████░░░░░░░░░░░  70%         │
-│  Cloud & DevOps          █████░░░░░░░░░░░░  55%         │
-│  API Development         ███████░░░░░░░░░░  75%         │
-│  Web Scraping            ██████░░░░░░░░░░░  65%         │
-│  Database Design         ██████░░░░░░░░░░░  70%         │
-│  Problem Solving         ████████░░░░░░░░░  85%         │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
 
 </div>
 
@@ -208,39 +176,25 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 
 ---
 
-## 🎨 Featured Tech Stack - Animated Display
+## 🌟 Key Competencies
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=18&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=400&lines=Featured+Tech+Stack;✨+Modern+%26+Scalable" alt="Stack Header" />
-
 ```
-🏗️ ARCHITECTURE & FRAMEWORKS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├─ 🔷 TensorFlow 2.x
-  ├─ 🔶 PyTorch Lightning
-  ├─ 🔹 Keras & tf.keras
-  ├─ 🟠 FastAPI
-  ├─ 🟢 Django
-  └─ 🟣 Flask
-
-📊 DATA STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├─ 📈 Pandas
-  ├─ 🔢 NumPy
-  ├─ 📉 Matplotlib
-  ├─ 🎨 Plotly
-  ├─ 🧪 SciPy
-  └─ 📊 Seaborn
-
-🚀 TOOLS & PLATFORMS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├─ 🐳 Docker
-  ├─ ☸️  Kubernetes
-  ├─ 🔄 Git
-  ├─ ☁️  AWS/GCP
-  ├─ 📦 Conda/Pip
-  └─ 🧬 Jupyter
+╔════════════════════════════════════════════════════════╗
+║         🚀 CORE COMPETENCIES & EXPERTISE 🚀            ║
+╠════════════════════════════════════════════════════════╣
+║                                                        ║
+║  ✨ Python Programming       💯 Problem Solving       ║
+║  🤖 Machine Learning         📊 Data Analysis         ║
+║  📈 NumPy & Pandas           🧠 Deep Learning         ║
+║  🎯 Scikit-learn             🔬 NLP & LLMs            ║
+║  🎨 Data Visualization       💻 Software Dev          ║
+║  🚀 AI Applications          📚 Continuous Learning   ║
+║  🔐 Data Security            ⚡ Performance Opt       ║
+║  🌐 Web Scraping             📱 API Development       ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -313,7 +267,7 @@ I'm a **passionate Python developer** and **AI/ML enthusiast** dedicated to buil
 
 ---
 
-## 🌟 Fun Facts & Philosophy
+## 🌟 Philosophy & Mindset
 
 <div align="center">
 
