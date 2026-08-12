@@ -244,7 +244,7 @@ I'm a <b>passionate Python developer</b> and <b>AI/ML enthusiast</b> dedicated t
 
 ### 💌 Get in Touch
 
-**📧 Email:** [lakshit.dev@gmail.com](mailto:lakshit.dev@gmail.com)
+**📧 Email:** [Pythondevloper78@outlook.com](mailto:Pythondevloper78@outlook.com)
 
 ### 🔗 Social & Professional Links
 
